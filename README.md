@@ -11,7 +11,7 @@ Load image from google.com
 Load image from facebook.com
 `http://your-domain/folder/html-proxy-csharp.ashx?url=https://www.facebook.com/images/fb_icon_325x325.png`
 
-Example with Fabric.js:
+Example with **[Fabric.js](https://github.com/kangax/fabric.js)**:
 ```html
 <!DOCTYPE html>
 <html>
