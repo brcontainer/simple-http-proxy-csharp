@@ -42,7 +42,7 @@ Example with **[Fabric.js](https://github.com/kangax/fabric.js)**:
 			});
 
 			function fireSnapShot(){
-				window.open(document.getElementById('myCanvasId').toDataURL("image/png"));s
+				window.open(document.getElementById('myCanvasId').toDataURL("image/png"));
 			}
 
 			document.getElementById('fire').onclick = fireSnapShot;
