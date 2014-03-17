@@ -3,6 +3,10 @@ simple http proxy csharp
 
 Simple http proxy asp.net (csharp)
 
+### Follow ###
+
+I ask you to follow me or ["star"](https://github.com/brcontainer/simple-http-proxy-csharp/star) my repository to track updates
+
 ### Usage ###
 Example
 Load image from google.com
