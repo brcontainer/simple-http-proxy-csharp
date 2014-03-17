@@ -5,7 +5,7 @@ Simple http proxy asp.net (csharp)
 
 ### Follow ###
 
-I ask you to follow me or ["star"](https://github.com/brcontainer/simple-http-proxy-csharp/star) my repository to track updates
+I ask you to follow me or "star" my repository to track updates
 
 ### Usage ###
 Example
