@@ -30,7 +30,10 @@ Example with **[Fabric.js](https://github.com/kangax/fabric.js)**:
 		</p>
 
 		<canvas id="myCanvasId" width="350" height="350" style="border:1px solid #aaa"></canvas>
-        <script>
+
+		<script>
+		//<![CDATA[
+		(function() {
 			var canvas = new fabric.Canvas('myCanvasId');
 
 			fabric.Image.fromURL('html-proxy-csharp.ashx?url=http://fabricjs.com/assets/pug_small.jpg', function(img) {
@@ -50,7 +53,9 @@ Example with **[Fabric.js](https://github.com/kangax/fabric.js)**:
 			}
 
 			document.getElementById('fire').onclick = fireSnapShot;
-        </script>
+		})();
+		//]]>
+		</script>
     </body>
 </html>
 ```
